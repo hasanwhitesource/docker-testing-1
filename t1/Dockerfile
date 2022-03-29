@@ -1,1 +1,1 @@
-FROM ubuntu:eoan
+FROM ubuntu:focal
